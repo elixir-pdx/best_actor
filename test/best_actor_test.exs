@@ -1,7 +1,7 @@
 defmodule BestActorTest do
   use ExUnit.Case
 
-  test "useless" do
-    assert true
+  test "useful" do
+    Show.begin()
   end
 end
