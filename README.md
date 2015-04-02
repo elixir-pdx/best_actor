@@ -19,7 +19,7 @@ consider to be both the best actor and the runner-up amongst all the available A
   
 	$ cd ~/Repositories
 	$ git clone https://github.com/elixir-pdx/best_actor.git
-	$ cd prime
+	$ cd best_actor
 
 #Hacking
 
