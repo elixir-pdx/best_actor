@@ -17,15 +17,15 @@ consider to be both the best actor and the runner-up amongst all the available A
 
 ###Clone this repository.
   
-	$ cd ~/Repositories
-	$ git clone https://github.com/elixir-pdx/best_actor.git
-	$ cd best_actor
+  $ cd ~/Repositories
+  $ git clone https://github.com/elixir-pdx/best_actor.git
+  $ cd best_actor
 
 #Hacking
 
 You may find it helpful to play with your code in Elixir's `iex` interactive console. If you want to do that and autoload the console session with your code then you can do the following from the project root:
 
-	$ iex -S mix
+  $ iex -S mix
 
 That will make sure that you're running `iex` inside your project's build environment.
 
@@ -33,10 +33,10 @@ That will make sure that you're running `iex` inside your project's build enviro
 
 To compile your project simply run this from the project root:
 
-	$ mix compile
+  $ mix compile
 
 #Testing
 
 To run the test suite defined in `test/prime_test.exs` then run this from the project root:
 
-	$ mix test
+  $ mix test
